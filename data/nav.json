@@ -1,0 +1,111 @@
+{
+	"code": 200,
+	"msg": "success",
+	"data": {
+		"data" :{
+			"searchSwitch": "0",
+			"searchDoc": "",
+			"href": "",
+			"tabs": [
+				{
+					"categoryId": "30074",
+					"name": "女装/男装/内衣",
+					"backgroundPic": "",
+					"hierarchyId": "117",
+					"clientFrom": "",
+					"categoryFilter": ""
+
+				},
+				{
+					"categoryId": "324442",
+					"name": "女鞋/男鞋/箱包",
+					"backgroundPic": "",
+					"hierarchyId": "117",
+					"clientFrom": "",
+					"categoryFilter": ""
+				},
+				{
+					"categoryId": "30071",
+					"name": "护肤彩妆/个护",
+					"backgroundPic": "",
+					"hierarchyId": "117",
+					"clientFrom": "",
+					"categoryFilter": ""
+
+				},
+				{
+					"categoryId": "30066",
+					"name": "运动户外",
+					"backgroundPic": "",
+					"hierarchyId": "117",
+					"clientFrom": "",
+					"categoryFilter": ""
+				},
+				{
+					"categoryId": "30068",
+					"name": "家电数码",
+					"backgroundPic": "",
+					"hierarchyId": "117",
+					"clientFrom": "",
+					"categoryFilter": ""
+
+				},
+				{
+					"categoryId": "30070",
+					"name": "母婴童装",
+					"backgroundPic": "",
+					"hierarchyId": "117",
+					"clientFrom": "",
+					"categoryFilter": ""
+				},
+
+				{
+					"categoryId": "29751",
+					"name": "手表配饰",
+					"backgroundPic": "",
+					"hierarchyId": "117",
+					"clientFrom": "",
+					"categoryFilter": ""
+
+				},
+				{
+
+					"categoryId": "30069",
+					"name": "居家用品",
+					"backgroundPic": "",
+					"hierarchyId": "117",
+					"clientFrom": "",
+					"categoryFilter": ""
+				},
+				{
+
+					"categoryId": "71958",
+					"name": "唯品生活",
+					"backgroundPic": "",
+					"hierarchyId": "117",
+					"clientFrom": "",
+					"categoryFilter": ""
+				},
+				{
+
+					"categoryId": "44285",
+					"name": "唯品国际/唯品奢",
+					"backgroundPic": "",
+					"hierarchyId": "117",
+					"clientFrom": "",
+					"categoryFilter": ""
+				},
+				{
+					"categoryId": "331849",
+					"name": "医药健康",
+					"backgroundPic": "",
+					"hierarchyId": "117",
+					"clientFrom": "",
+					"categoryFilter": ""
+				}
+			],
+			"selectIndex": "0",
+			"leftHid": "802"
+		}
+	}
+}
